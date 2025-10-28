@@ -1,0 +1,9 @@
+{
+  "firstName": "João",
+  "lastName": "Silva",
+  "address": "Rua das Flores, 123",
+  "city": "São Paulo",
+  "postcode": "14580000",
+  "phone": "11999999999",
+  "email": "joao.silva@example.com"
+}
